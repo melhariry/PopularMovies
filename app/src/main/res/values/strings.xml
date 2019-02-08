@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PopMovies</string>
+    <string name="detail_name">MovieDetails</string>
+    <string name="settings_name">Settings</string>
+    <string name="sort_pref">Sort By</string>
+    <string name="sort_rating">Sory By Rating</string>
+    <string name="sort_popularity">Sort By Popularity</string>
+    <string name="popularity">Popularity</string>
+    <string name="popularity_pref">popular</string>
+    <string name="rating">Rating</string>
+    <string name="favorites">Favorites</string>
+    <string name="trailers">Trailers:</string>
+    <string name="reviews">Reviews:</string>
+    <string name="trailer">Trailer</string>
+    <string name="add_favorite">Mark As Favorite</string>
+    <string name="remove_favorite">Remove From Favorties</string>
+
+</resources>
